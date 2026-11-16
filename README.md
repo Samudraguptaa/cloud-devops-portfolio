@@ -74,3 +74,5 @@ Observability
       │
       ▼
 Security & Quality
+
+Local CI/CD pipeline demo - automatic deployment test.
