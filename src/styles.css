@@ -170,7 +170,7 @@
   --popover: oklch(0.2 0.03 259);
   --popover-foreground: oklch(0.97 0.006 260);
 
-  --primary: oklch(0.7 0.144 232);
+  --primary: oklch(0.7 0.19 300);
   --primary-foreground: oklch(0.17 0.03 259);
   --primary-glow: oklch(0.82 0.11 196);
 
@@ -205,7 +205,7 @@
   --sidebar-accent: oklch(0.25 0.03 259);
   --sidebar-accent-foreground: oklch(0.97 0.006 260);
   --sidebar-border: oklch(0.99 0 0 / 9%);
-  --sidebar-ring: oklch(0.7 0.144 232);
+  --sidebar-ring: oklch(0.7 0.19 300);
 
   /* Composed design tokens */
   --gradient-primary: linear-gradient(135deg, var(--primary), var(--primary-glow));
